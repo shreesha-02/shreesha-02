@@ -1,125 +1,348 @@
-# Hi, I'm Shreesha 👋
+<!-- ======================= HEADER ======================= -->
 
-### AI/ML Student | GenAI & Full-Stack Developer
+<h1 align="center">Hi, I'm Shreesha 👋</h1>
 
-I'm an AI/ML student interested in building practical applications using
-Artificial Intelligence, Generative AI, and full-stack technologies.
+<h3 align="center">
+  AI/ML Student • GenAI Enthusiast • Full-Stack Developer
+</h3>
 
-I enjoy working across the stack — from AI/ML and LLM-based applications
-to frontend interfaces, backend APIs, databases, and deployment.
+<p align="center">
+  Building practical AI-powered applications and exploring the intersection of
+  <b>Artificial Intelligence, Generative AI & Software Development</b>.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shreesha-s-874ba530b">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:shreeshad78@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/shreesha-02">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## About Me
+<!-- ======================= ABOUT ======================= -->
 
-- 🎓 AI/ML student exploring Artificial Intelligence and software development
-- 🤖 Interested in Generative AI, Machine Learning, RAG, and AI applications
-- 💻 Building projects with Python, JavaScript, TypeScript, React, and Node.js
-- 🔧 Interested in developing, integrating, and deploying practical applications
-- 🚀 Focused on combining AI with real-world software solutions
+## 👩‍💻 About Me
+
+🎓 **B.E. – Artificial Intelligence & Machine Learning**  
+🏫 **CMR Institute of Technology, Bengaluru**  
+📊 **CGPA: 9.34 | Expected Graduation: 2028**
+
+I'm an AI/ML student passionate about building practical applications using
+**Artificial Intelligence, Generative AI, and modern software technologies**.
+
+I enjoy working across the stack — from AI/ML models and RAG-based systems
+to frontend interfaces, backend APIs, databases, and cloud deployment.
+
+### What I'm Interested In
+
+- 🤖 Generative AI & LLM applications
+- 🔎 Retrieval-Augmented Generation (RAG)
+- 🧠 Machine Learning & NLP
+- 🌐 Full-Stack Development
+- ⚙️ Backend & REST API development
+- ☁️ Cloud deployment
+- 🚀 Building AI solutions for real-world problems
 
 ---
 
-## Tech Stack
+<!-- ======================= TECH STACK ======================= -->
+
+## 🛠️ Tech Stack
 
 ### Languages
-Python • JavaScript • TypeScript • SQL • HTML • CSS
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
+</p>
 
 ### AI / ML
-Machine Learning • Generative AI • RAG • PyTorch • IBM Granite
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch" />
+</p>
+
+`Machine Learning` · `Generative AI` · `RAG` · `NLP` · `IBM Granite`
 
 ### Frontend
-React.js • JavaScript • HTML • CSS
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,js" />
+</p>
 
 ### Backend
-Node.js • Express.js • REST APIs • JWT
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+`REST APIs` · `JWT Authentication`
 
 ### Databases
-MongoDB • PostgreSQL • Prisma
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+</p>
+
+`Prisma`
 
 ### Tools & Platforms
-Git • GitHub • VS Code • IBM watsonx.ai • IBM Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+`IBM Cloud` · `IBM watsonx.ai` · `Render` · `Vercel`
 
 ---
 
-## Selected Projects
+<!-- ======================= PROJECTS ======================= -->
 
-### 🧪 LabGenie AI
+## 🚀 Featured Projects
 
-An AI-powered laboratory manual and learning assistant that generates
-structured experiment manuals using IBM Granite and Retrieval-Augmented
-Generation (RAG).
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Tech:** JavaScript • React • Node.js • Express.js • IBM Granite • RAG
+<h3>🧪 LabGenie AI</h3>
 
----
+AI-powered laboratory manual and learning assistant built with
+<b>IBM Granite and Retrieval-Augmented Generation (RAG)</b>.
 
-### 🐛 CodeHeal AI Bug Repair
+Generates structured experiment manuals, viva questions, and evaluation
+criteria based on subject, topic, and difficulty.
 
-An AI-powered project for automated bug diagnosis and fixing.
+<br>
 
-**My Contributions:**
-- Developed the second module of the project
-- Integrated the different project modules
-- Fixed integration and implementation errors
-- Tested and debugged the integrated system
-- Worked on deployment and final project integration
+<b>Tech:</b><br>
+React • Node.js • Express • IBM Granite • RAG • watsonx.ai
 
-**Tech:** Python • AI/ML • Automated Bug Diagnosis • Module Integration
+<br><br>
 
----
+<a href="https://labgenie-ai-frontend.onrender.com">
+  <img src="https://img.shields.io/badge/Live_Demo-Visit-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+</a>
 
-### 🧴 AI Skincare
+<a href="https://github.com/shreesha-02/LabGenie-AI">
+  <img src="https://img.shields.io/badge/Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-An AI-driven web application for personalized skincare analysis and
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🐛 CodeHeal AI Bug Repair</h3>
+
+AI-powered system for automated bug diagnosis and fixing.
+
+<b>My Contributions:</b>
+
+- Developed the second module
+- Integrated project modules
+- Fixed integration issues
+- Tested and debugged the system
+- Worked on final integration and deployment
+
+<br>
+
+<b>Tech:</b><br>
+Python • AI/ML • Automated Bug Diagnosis
+
+<br><br>
+
+<a href="https://codeheal-frontend.vercel.app">
+  <img src="https://img.shields.io/badge/Live_Demo-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shreesha-02/CodeHeal-AI-Bug-Repair">
+  <img src="https://img.shields.io/badge/Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>🧴 AI Skincare</h3>
+
+AI-driven web application for personalized skincare analysis and
 recommendations.
 
-The project combines AI/ML capabilities with a full-stack web application
-to provide skincare analysis and personalized recommendations.
+Includes AI analysis, personalized recommendations, weather-based
+suggestions, progress tracking, and an AI skincare assistant.
 
-**Tech:** React.js • Node.js • Express.js • MongoDB • Python • PyTorch • REST APIs
+<br>
+
+<b>My Work:</b>
+
+- Frontend development
+- Backend modules & REST APIs
+- MongoDB models
+- Authentication
+- AI & weather integration
+
+<br>
+
+<b>Tech:</b><br>
+React • Node.js • Express • MongoDB • Python • PyTorch
+
+<br><br>
+
+<a href="https://github.com/shreesha-02/AI-skincare">
+  <img src="https://img.shields.io/badge/Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>⚡ FocusFlow</h3>
+
+Web-based productivity application designed to help users organize tasks
+and manage their workflow.
+
+<br>
+
+<b>Tech:</b><br>
+JavaScript • HTML • CSS
+
+<br><br>
+
+<a href="https://focus-flow-coral-six.vercel.app">
+  <img src="https://img.shields.io/badge/Live_Demo-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shreesha-02/FocusFlow">
+  <img src="https://img.shields.io/badge/Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### ⚡ FocusFlow
+<!-- ======================= OTHER PROJECTS ======================= -->
 
-A web-based productivity application designed to help users organize
-tasks and manage their workflow.
+## 🧠 Other Projects
 
-**Tech:** JavaScript • Web Development
+### Sentiment Analysis App
 
----
-
-### 🧠 Sentiment Analysis App
-
-A machine learning application for analyzing the sentiment of text using
+Machine learning application for analyzing text sentiment using
 Natural Language Processing techniques.
 
-**Tech:** Python • Machine Learning • NLP
+**Tech:** Python · Machine Learning · NLP
+
+🔗 [Repository](https://github.com/shreesha-02/sentiment-analysis-app)
 
 ---
 
-## Currently Exploring
+<!-- ======================= EXPERIENCE ======================= -->
+
+## 💼 Experience
+
+### 🌐 Web Developer Intern — InAmigos Foundation
+
+**August 2026**
+
+Worked on web development and UI-related tasks as part of a remote
+internship experience.
+
+### ☁️ ServiceNow Virtual Internship
+
+**August 2026**
+
+Explored ServiceNow administration fundamentals, workflows and automation,
+Agentic AI concepts, reports, and platform capabilities.
+
+### 🤖 IBM SkillsBuild / Edunet Foundation Internship
+
+**2026**
+
+Worked with AI concepts and cloud-based workflows while developing
+**LabGenie AI**, an IBM Granite and RAG-based application.
+
+---
+
+<!-- ======================= CERTIFICATIONS ======================= -->
+
+## 📜 Certifications
+
+| Certification | Organization | Issued |
+|---|---|---|
+| **Google AI Essentials** | Google | Sep 2026 |
+| **Google Prompting Essentials** | Google | Sep 2026 |
+| **NASA Open Science Essentials** | NASA | Sep 2026 |
+| **NASA Open Science 101** | NASA | Sep 2026 |
+| **AI/ML for Geodata Analytics** | ISRO | Sep 2026 |
+| **BCG GenAI Job Simulation** | Forage | Aug 2026 |
+| **AI Fundamentals: Foundations for Understanding AI** | IBM | Aug 2026 |
+| **Oracle Certified Foundations Associate – Agentic AI** | Oracle | Jul 2026 |
+| **Data Science Essentials With Python** | Cisco | Jul 2026 |
+
+---
+
+<!-- ======================= HACKATHONS ======================= -->
+
+## 🏆 Hackathons & Activities
+
+### Smart India Hackathon — Internal Participation
+
+**2025**
+
+Participated in the internal college-level round of Smart India Hackathon.
+
+---
+
+<!-- ======================= CURRENTLY EXPLORING ======================= -->
+
+## 🌱 Currently Exploring
 
 - Generative AI & LLM applications
 - Retrieval-Augmented Generation (RAG)
-- Machine Learning
+- Machine Learning & NLP
 - AI application development
 - Python & Data Structures
-- Backend development and REST APIs
-- Full-stack development
+- Full-Stack Development
+- Backend APIs
+- Cloud deployment
 
 ---
 
-## My Goal
+<!-- ======================= CAREER OBJECTIVE ======================= -->
+
+## 🎯 Career Objective
 
 To build practical AI-powered applications and grow as an AI/ML engineer
 with strong software development and full-stack development skills.
 
 ---
 
-## Let's Connect
+<!-- ======================= CONNECT ======================= -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shreesha-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shreesha-s-874ba530b)
+## 🤝 Let's Connect
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:shreeshad78@gmail.com)
+Interested in **AI/ML, Generative AI, software development, and building
+practical technology solutions**.
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/shreesha-s-874ba530b">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:shreeshad78@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+  <i>Building • Learning • Experimenting with AI</i>
+</p>
